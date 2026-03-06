@@ -4,6 +4,10 @@
 ![API](https://img.shields.io/badge/API-REST%20(Jersey)-blue)
 ![Architecture](https://img.shields.io/badge/Architecture-MVC-green)
 
+![Console Demo Part 1](console_demo01.png)
+![Console Demo Part 2](console_demo02.png)
+![Console Demo Part 3](console_demo03.png)
+
 A modular search engine backend simulation built with **Java** and **JAX-RS (Jersey)**. This project demonstrates software engineering principles like **Design Patterns** (Singleton, Factory, Strategy), **REST API** development, and **Object-Oriented Architecture**.
 
 ## Architecture
