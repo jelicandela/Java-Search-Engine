@@ -55,7 +55,7 @@ graph TD
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/jelicandela/Java-Search-Engine.git](https://github.com/jelicandela/Java-Search-Engine.git)
+   git clone https://github.com/jelicandela/Java-Search-Engine.git
    ```
 2. **Compile and Run the Simulation**
    Run `MainSearchEngine.java` in your IDE to see the console simulation of the system architecture, Crawler, and Admin dashboard.
